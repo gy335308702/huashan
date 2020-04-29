@@ -1,0 +1,8 @@
+spark
+hadoop
+mapreduce
+hive
+hbase
+kudu
+impala
+
